@@ -1,0 +1,30 @@
+[
+  {
+    "model": "cuentas.TipoCuenta",
+    "pk": 1,
+    "fields": {
+      "nombre": "Cuenta corriente"
+    }
+  },
+  {
+    "model": "cuentas.TipoCuenta",
+    "pk": 2,
+    "fields": {
+      "nombre": "Caja de ahorros"
+    }
+  },
+  {
+    "model": "cuentas.TipoCuenta",
+    "pk": 3,
+    "fields": {
+      "nombre": "Billetera virtual"
+    }
+  },
+  {
+    "model": "cuentas.TipoCuenta",
+    "pk": 4,
+    "fields": {
+      "nombre": "Dinero en efectivo"
+    }
+  }
+]

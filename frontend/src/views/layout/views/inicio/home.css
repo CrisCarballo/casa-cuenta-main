@@ -1,0 +1,16 @@
+body {
+  background-image: url("/public/fondo.jpeg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.home-container {
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 20px;
+  border-radius: 4px;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
